@@ -18,6 +18,7 @@ Full Emoji List --> https://unicode.org/emoji/charts/full-emoji-list.html
 ## Icons
 
 Icons8 --> https://icons8.com/ 
+Flaticon --> https://www.flaticon.com/br/
 
 ***
 
