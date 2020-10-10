@@ -1,5 +1,13 @@
-# gratuito
-Conteudo gratuito 
+# Recursos gratuitos
+
+Repositório criado para auxiliar na criação com conteúdos gratuitos de diferentes sites!
+
+***
+
+## Free resources
+
+Repository created to assist in creating free content from different sites!
+
 
 ***
 
@@ -18,21 +26,20 @@ Full Emoji List --> https://unicode.org/emoji/charts/full-emoji-list.html
 ## Icons
 
 Icons8 --> https://icons8.com/ 
+
 Flaticon --> https://www.flaticon.com/br/
 
 ***
 
 ## Fontes
 
+Google Fonts --> https://fonts.google.com/
+
 ***
 
 ## Paletas de Cores
 
 Palleton --> http://paletton.com/ 
-
-***
-
-## Cursos
 
 ***
 
