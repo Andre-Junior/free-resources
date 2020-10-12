@@ -15,6 +15,8 @@ Repository created to assist in creating free content from different sites!
 
 Pexels --> https://www.pexels.com/pt-br/procurar/portugu%C3%AAs/
 
+SVGOMG --> https://jakearchibald.github.io/svgomg/
+
 ***
 
 ## Emoji
