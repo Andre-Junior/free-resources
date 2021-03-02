@@ -64,3 +64,7 @@ CSS Transitions and Transforms --> https://thoughtbot.com/blog/transitions-and-t
 CSS Patterns --> http://projects.verou.me/css3patterns/
 
 Particles --> https://vincentgarreau.com/particles.js/
+
+Easing Functions Cheat Sheet --> https://easings.net/pt-br
+
+cubic-bezier --> https://cubic-bezier.com/
